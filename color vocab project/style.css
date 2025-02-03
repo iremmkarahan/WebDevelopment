@@ -1,5 +1,5 @@
 .color-title {
-    font-weight: bold; 
+    font-weight: normal; 
     margin-bottom: 10px; 
   }
   
@@ -21,10 +21,10 @@
 
 
 img {
-    width: 100px;  /* Set the width to 100px */
-    height: 100px;  /* Set the height to 100px */
-    object-fit: cover;  /* Ensures the image covers the square area without distortion */
+    width: 200px;  
+    height: 200px; 
+    object-fit: cover;  
 }
 img {
-    border-radius: 18px; /* Or a very small value like 1px */
+    border-radius: 18px; 
   }
